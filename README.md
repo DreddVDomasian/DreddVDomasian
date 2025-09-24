@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dredd V. Domasian</h1>
-<h3 align="center">BSIT student passionate about solving problems through code and hands-on projects.</h3>
+<h3 align="center">I enjoy solving problems with code and turning ideas into real, working projects.</h3>
 
 - 🔭 I’m currently working on [Petmate-Desktop-Application](https://github.com/DreddVDomasian/Petmate-Desktop-Application)
 
