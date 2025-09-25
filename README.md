@@ -7,7 +7,7 @@
 
 - 📄 Know about my experiences [https://github.com/DreddVDomasian/DreddVDomasian/blob/main/DreddVDomasian.pdf](https://github.com/DreddVDomasian/DreddVDomasian/blob/main/DreddVDomasian.pdf)
 
-- ⚡ Fun fact **I talk to my code... and sometimes it answers (with errors).**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
