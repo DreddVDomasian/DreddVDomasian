@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Dredd V. Domasian</h1>
-<a href="https://git.io/typing-svg" align="center"><img src="https://readme-typing-svg.demolab.com?font=Rubik+Mono+One&size=24&duration=3997&pause=1000&color=F7973B&background=42D5FF00&center=true&vCenter=true&width=790&lines=Exploring+tech%2C+one+project+at+a+time." alt="Typing SVG" /></a>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Rubik+Mono+One&size=24&duration=3997&pause=1000&color=F7973B&background=42D5FF00&center=true&vCenter=true&width=790&lines=Exploring+tech%2C+one+project+at+a+time." alt="Typing SVG" />
+  </a>
+</p>
 
 - 🔭 I’m currently working on [Petmate-Desktop-Application](https://github.com/DreddVDomasian/Petmate-Desktop-Application)
 
