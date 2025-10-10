@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.demolab.com?font=Rubik+Mono+One&size=24&duration=3997&pause=1000&color=F7973B&background=42D5FF00&center=true&vCenter=true&width=790&lines=Exploring+tech%2C+one+project+at+a+time." alt="Typing SVG" />
   </a>
 </p>
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dreddvdomasian&label=Profile%20views&color=0e75b6&style=flat" alt="dreddvdomasian" /> </p>
 - 🔭 I’m currently working on [Petmate-Desktop-Application](https://github.com/DreddVDomasian/Petmate-Desktop-Application)
 
 - 📫 How to reach me **Domasiandreddd@gmail.com**
@@ -25,4 +25,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dreddvdomasian&show_icons=true&locale=en&layout=compact" alt="dreddvdomasian" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dreddvdomasian&show_icons=true&locale=en" alt="dreddvdomasian" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dreddvdomasian&" alt="dreddvdomasian" /></p>
 
